@@ -15,7 +15,7 @@
 				<div class="d-flex flex-center flex-column flex-column-fluid p-10 pb-lg-20">
 					<!--begin::Logo-->
 					<a href="../../demo1/dist/index.html" class="mb-12">
-						<img alt="Logo" src="{{ asset('backend/assets/media/logos/logo-1.svg') }}" class="h-40px" />
+						<img alt="Logo" src="{{ asset('backend/assets/images/logos/lunar-logo.png') }}" class="h-80px" />
 					</a>
 					<!--end::Logo-->
 					<!--begin::Wrapper-->
@@ -25,11 +25,11 @@
 							<!--begin::Heading-->
 							<div class="text-center mb-10">
 								<!--begin::Title-->
-								<h1 class="text-dark mb-3">Sign In to Metronic</h1>
+								<h1 class="text-dark mb-3">Sign In to Lunartech</h1>
 								<!--end::Title-->
 								<!--begin::Link-->
 								<div class="text-gray-400 fw-bold fs-4">New Here?
-								<a href="../../demo1/dist/authentication/layouts/basic/sign-up.html" class="link-primary fw-bolder">Create an Account</a></div>
+								<a href="{{ url('/signup') }}" class="link-primary fw-bolder">Create an Account</a></div>
 								<!--end::Link-->
 							</div>
 							<!--begin::Heading-->

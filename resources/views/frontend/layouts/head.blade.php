@@ -23,6 +23,7 @@
 
     <!-- CSS Electro Template -->
     <link rel="stylesheet" href="{{ asset('frontend/assets/css/theme.css') }}">
+    <link rel="stylesheet" href="{{ asset('frontend/assets/custom/custom.css') }}">
 </head>
 
         
