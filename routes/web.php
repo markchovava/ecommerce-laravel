@@ -77,13 +77,24 @@ Route::get('/terms', function () {
 
 /* 
 ::::::::::::::::::::::::::::::::::::::
-        START OF FRONTEND
+        START OF BACKEND
 ::::::::::::::::::::::::::::::::::::::
 */
 Route::prefix('/admin')->group(function(){
     Route::get('/', function () {
         return view('backend.index');
     });
+
+    Route::get('/users', function () {
+        return view('backend.users.index');
+    });
+    Route::get('/users/view', function () {
+        return view('backend.users.view');
+    });
+    Route::get('/users/edit', function () {
+        return view('backend.users.edit');
+    });
+
     Route::get('/products', function () {
         return view('backend.products.index');
     });
@@ -93,12 +104,47 @@ Route::prefix('/admin')->group(function(){
     Route::get('/products/edit', function () {
         return view('backend.products.edit');
     });
-    
+    Route::get('/category', function () {
+        return view('backend.category.index');
+    });
+    Route::get('/category/add', function () {
+        return view('backend.category.add');
+    });
+    Route::get('/category/edit', function () {
+        return view('backend.category.add');
+    });
+    Route::get('/customers', function () {
+        return view('backend.customers.index');
+    });
+    Route::get('/customers/view', function () {
+        return view('backend.customers.view');
+    });
+    Route::get('/sales', function () {
+        return view('backend.reports.sales');
+    });
+    Route::get('/delivery', function () {
+        return view('backend.reports.delivery');
+    });
+    Route::get('/qoute/view', function () {
+        return view('backend.qoute.view');
+    });
+    Route::get('/qoute/add', function () {
+        return view('backend.qoute.add');
+    });
+    Route::get('/message', function () {
+        return view('backend.message.index');
+    });
+    Route::get('/message/add', function () {
+        return view('backend.message.add');
+    });
+
+
 });
+
 
 /* 
 ::::::::::::::::::::::::::::::::::::::
-        END OF FRONTEND
+        END OF BACKEND
 ::::::::::::::::::::::::::::::::::::::
 */
 

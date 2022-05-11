@@ -83,7 +83,8 @@
                                         <div class="product-item__inner remove-prodcut-hover py-4 row">
                                             <div class="product-item__header col-6 col-md-4">
                                                 <div class="mb-2">
-                                                    <a href="../shop/single-product-fullwidth.html" class="d-block text-center"><img class="img-fluid" src="{{ ('frontend/assets/img/212X200/img1.jpg') }}" alt="Image Description"></a>
+                                                    <a href="../shop/single-product-fullwidth.html" class="d-block text-center">
+                                                        <img class="img-fluid" src="{{ ('frontend/assets/images/212X200/1.png') }}" alt="Image Description"></a>
                                                 </div>
                                             </div>
                                             <div class="product-item__body col-6 col-md-5">
@@ -134,7 +135,8 @@
                                         <div class="product-item__inner remove-prodcut-hover py-4 row">
                                             <div class="product-item__header col-6 col-md-4">
                                                 <div class="mb-2">
-                                                    <a href="../shop/single-product-fullwidth.html" class="d-block text-center"><img class="img-fluid" src="{{ ('frontend/assets/img/212X200/img2.jpg') }}" alt="Image Description"></a>
+                                                    <a href="../shop/single-product-fullwidth.html" class="d-block text-center">
+                                                        <img class="img-fluid" src="{{ ('frontend/assets/images/212X200/1.png') }}" alt="Image Description"></a>
                                                 </div>
                                             </div>
                                             <div class="product-item__body col-6 col-md-5">
@@ -185,7 +187,7 @@
                                         <div class="product-item__inner remove-prodcut-hover py-4 row">
                                             <div class="product-item__header col-6 col-md-4">
                                                 <div class="mb-2">
-                                                    <a href="../shop/single-product-fullwidth.html" class="d-block text-center"><img class="img-fluid" src="{{ ('frontend/assets/img/212X200/img3.jpg') }}" alt="Image Description"></a>
+                                                    <a href="../shop/single-product-fullwidth.html" class="d-block text-center"><img class="img-fluid" src="{{ ('frontend/assets/images/212X200/3.png') }}" alt="Image Description"></a>
                                                 </div>
                                             </div>
                                             <div class="product-item__body col-6 col-md-5">
@@ -236,7 +238,7 @@
                                         <div class="product-item__inner remove-prodcut-hover py-4 row">
                                             <div class="product-item__header col-6 col-md-4">
                                                 <div class="mb-2">
-                                                    <a href="../shop/single-product-fullwidth.html" class="d-block text-center"><img class="img-fluid" src="{{ ('frontend/assets/img/212X200/img4.jpg') }}" alt="Image Description"></a>
+                                                    <a href="../shop/single-product-fullwidth.html" class="d-block text-center"><img class="img-fluid" src="{{ ('frontend/assets/images/212X200/4.png') }}" alt="Image Description"></a>
                                                 </div>
                                             </div>
                                             <div class="product-item__body col-6 col-md-5">
@@ -287,7 +289,7 @@
                                         <div class="product-item__inner remove-prodcut-hover py-4 row">
                                             <div class="product-item__header col-6 col-md-4">
                                                 <div class="mb-2">
-                                                    <a href="../shop/single-product-fullwidth.html" class="d-block text-center"><img class="img-fluid" src="{{ ('frontend/assets/img/212X200/img5.jpg') }}" alt="Image Description"></a>
+                                                    <a href="../shop/single-product-fullwidth.html" class="d-block text-center"><img class="img-fluid" src="{{ ('frontend/assets/images/212X200/4.png') }}" alt="Image Description"></a>
                                                 </div>
                                             </div>
                                             <div class="product-item__body col-6 col-md-5">
@@ -338,7 +340,7 @@
                                         <div class="product-item__inner remove-prodcut-hover py-4 row">
                                             <div class="product-item__header col-6 col-md-4">
                                                 <div class="mb-2">
-                                                    <a href="../shop/single-product-fullwidth.html" class="d-block text-center"><img class="img-fluid" src="{{ ('frontend/assets/img/212X200/img6.jpg') }}" alt="Image Description"></a>
+                                                    <a href="../shop/single-product-fullwidth.html" class="d-block text-center"><img class="img-fluid" src="{{ ('frontend/assets/images/212X200/2.png') }}" alt="Image Description"></a>
                                                 </div>
                                             </div>
                                             <div class="product-item__body col-6 col-md-5">
@@ -393,7 +395,7 @@
                                         <div class="product-item__inner remove-prodcut-hover py-4 row">
                                             <div class="product-item__header col-6 col-md-2">
                                                 <div class="mb-2">
-                                                    <a href="../shop/single-product-fullwidth.html" class="d-block text-center"><img class="img-fluid" src="{{ ('frontend/assets/img/212X200/img1.jpg') }}" alt="Image Description"></a>
+                                                    <a href="../shop/single-product-fullwidth.html" class="d-block text-center"><img class="img-fluid" src="{{ ('frontend/assets/images/212X200/2.png') }}" alt="Image Description"></a>
                                                 </div>
                                             </div>
                                             <div class="product-item__body col-6 col-md-7">
@@ -444,7 +446,7 @@
                                         <div class="product-item__inner remove-prodcut-hover py-4 row">
                                             <div class="product-item__header col-6 col-md-2">
                                                 <div class="mb-2">
-                                                    <a href="../shop/single-product-fullwidth.html" class="d-block text-center"><img class="img-fluid" src="{{ ('frontend/assets/img/212X200/img2.jpg') }}" alt="Image Description"></a>
+                                                    <a href="../shop/single-product-fullwidth.html" class="d-block text-center"><img class="img-fluid" src="{{ ('frontend/assets/images/212X200/1.png') }}" alt="Image Description"></a>
                                                 </div>
                                             </div>
                                             <div class="product-item__body col-6 col-md-7">
@@ -495,7 +497,7 @@
                                         <div class="product-item__inner remove-prodcut-hover py-4 row">
                                             <div class="product-item__header col-6 col-md-2">
                                                 <div class="mb-2">
-                                                    <a href="../shop/single-product-fullwidth.html" class="d-block text-center"><img class="img-fluid" src="{{ ('frontend/assets/img/212X200/img3.jpg') }}" alt="Image Description"></a>
+                                                    <a href="../shop/single-product-fullwidth.html" class="d-block text-center"><img class="img-fluid" src="{{ ('frontend/assets/images/212X200/3.png') }}" alt="Image Description"></a>
                                                 </div>
                                             </div>
                                             <div class="product-item__body col-6 col-md-7">
@@ -546,7 +548,7 @@
                                         <div class="product-item__inner remove-prodcut-hover py-4 row">
                                             <div class="product-item__header col-6 col-md-2">
                                                 <div class="mb-2">
-                                                    <a href="../shop/single-product-fullwidth.html" class="d-block text-center"><img class="img-fluid" src="{{ ('frontend/assets/img/212X200/img4.jpg') }}" alt="Image Description"></a>
+                                                    <a href="../shop/single-product-fullwidth.html" class="d-block text-center"><img class="img-fluid" src="{{ ('frontend/assets/images/212X200/4.png') }}" alt="Image Description"></a>
                                                 </div>
                                             </div>
                                             <div class="product-item__body col-6 col-md-7">
@@ -597,7 +599,7 @@
                                         <div class="product-item__inner remove-prodcut-hover py-4 row">
                                             <div class="product-item__header col-6 col-md-2">
                                                 <div class="mb-2">
-                                                    <a href="../shop/single-product-fullwidth.html" class="d-block text-center"><img class="img-fluid" src="{{ ('frontend/assets/img/212X200/img5.jpg') }}" alt="Image Description"></a>
+                                                    <a href="../shop/single-product-fullwidth.html" class="d-block text-center"><img class="img-fluid" src="{{ ('frontend/assets/images/212X200/4.png') }}" alt="Image Description"></a>
                                                 </div>
                                             </div>
                                             <div class="product-item__body col-6 col-md-7">
@@ -648,7 +650,7 @@
                                         <div class="product-item__inner remove-prodcut-hover py-4 row">
                                             <div class="product-item__header col-6 col-md-2">
                                                 <div class="mb-2">
-                                                    <a href="../shop/single-product-fullwidth.html" class="d-block text-center"><img class="img-fluid" src="{{ ('frontend/assets/img/212X200/img6.jpg') }}" alt="Image Description"></a>
+                                                    <a href="../shop/single-product-fullwidth.html" class="d-block text-center"><img class="img-fluid" src="{{ ('frontend/assets/images/212X200/2.png') }}" alt="Image Description"></a>
                                                 </div>
                                             </div>
                                             <div class="product-item__body col-6 col-md-7">

@@ -45,7 +45,7 @@
                                         <a href="#" class="text-gray-32 font-size-26">×</a>
                                     </td>
                                     <td class="d-none d-md-table-cell">
-                                        <a href="#"><img class="img-fluid max-width-100 p-1 border border-color-1" src="{{ asset('frontend/assets/img/300X300/img6.jpg') }}" alt="Image Description"></a>
+                                        <a href="#"><img class="img-fluid max-width-100 p-1 border border-color-1" src="{{ asset('frontend/assets/images/212x200/1.png') }}" alt="Image Description"></a>
                                     </td>
 
                                     <td data-title="Product">
@@ -86,7 +86,7 @@
                                         <a href="#" class="text-gray-32 font-size-26">×</a>
                                     </td>
                                     <td class="d-none d-md-table-cell">
-                                        <a href="#"><img class="img-fluid max-width-100 p-1 border border-color-1" src="{{ asset('frontend/assets/img/300X300/img7.png') }}" alt="Image Description"></a>
+                                        <a href="#"><img class="img-fluid max-width-100 p-1 border border-color-1" src="{{ asset('frontend/assets/images/212x200/3.png') }}" alt="Image Description"></a>
                                     </td>
 
                                     <td data-title="Product">
